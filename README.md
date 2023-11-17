@@ -1,21 +1,21 @@
-<h1 align="center">Hi 👋, I'm Imgbi Daniel God'spower</h1>
-<h3 align="center">A passionate frontend developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Daniel Godspower Imgbi</h1>
+<h3 align="center">A passionate  developer from Nigeria</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DanielImgbi&label=Profile%20views&color=0e75b6&style=flat" alt="abiel13" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DanielImgbi" alt="DanielImgbi" /></a> </p>
 
-- 🔭 I’m currently working on **Pokemeon app**
+- 🔭 
 
-- 🌱 I’m currently learning **nodejs and express.js**
+- 🌱 I’m currently a **MERN stack developer**
 
 - 👯 I’m looking to collaborate on **open source project**
 
 - 🤝 I’m looking for help with **employment**
 
-- 💬 Ask me about **html , css and vanilla js**
+- 💬 Ask me about **HTML, CSS,  vanilla js, React, Next JS, Node JS, Express JS, Typescript, Tailwindcss, Bootstrap, Nest JS **
 
-- 📫 How to reach me **imgbidaniels@gmail.ocm**
+- 📫 How to reach me **imgbidanielgodspower@gmail.com**
 
 - ⚡ Fun fact **I play the piano**
 
